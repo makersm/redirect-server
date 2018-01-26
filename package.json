@@ -1,0 +1,22 @@
+{
+  "name": "redirect-server",
+  "version": "1.0.0",
+  "description": "redirect http to https",
+  "author": {
+    "name": "makersm(Somin Lee)",
+    "email": "sayyo1120@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makersm/redirect-server.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
